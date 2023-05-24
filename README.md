@@ -18,8 +18,8 @@
     
 ## Screenshots
 
-![Login](https://github.com/PhosRunia28/Login-and-TodoApp/assets/128719488/e4df32f5-8687-4412-91d5-d6b80c7bdfee)
-![todoapp](https://github.com/PhosRunia28/Login-and-TodoApp/assets/128719488/3f36b14f-0fb3-4e1c-83e5-1d108003a4ac)
+![todoapp](https://github.com/PhosRunia28/Login-and-TodoApp/assets/128719488/d86a4de2-d8ab-4c67-bffb-bc9590bc3c56)
+![Login](https://github.com/PhosRunia28/Login-and-TodoApp/assets/128719488/a56f7c11-5a14-49c8-baeb-346cb0919001)
 
 
 
