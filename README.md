@@ -18,8 +18,9 @@
     
 ## Screenshots
 
-![Login](https://github.com/PhosRunia28/Login-and-TodoApp/assets/128719488/7200e945-4643-4663-b1af-34b89e2395a0)
-![todoapp](https://github.com/PhosRunia28/Login-and-TodoApp/assets/128719488/98f5b2c5-f210-4afa-8f06-b0881a2d4586)
+![Login](https://github.com/PhosRunia28/Login-and-TodoApp/assets/128719488/e4df32f5-8687-4412-91d5-d6b80c7bdfee)
+![todoapp](https://github.com/PhosRunia28/Login-and-TodoApp/assets/128719488/3f36b14f-0fb3-4e1c-83e5-1d108003a4ac)
+
 
 
 ## License
